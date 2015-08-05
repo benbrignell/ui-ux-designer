@@ -2,7 +2,7 @@
 layout: default
 ---
 # Hello there…
-We're looking for a contract designer to come and help us at [audioBDoom](http://audioboom.com). We are reshaping on-demand radio and there's a lot of work to do, for 3-6 months at least.
+We're looking for a contract designer to come and help us at [audioBoom](http://audioboom.com). We are reshaping on-demand radio and there's a lot of work to do, for 3-6 months at least.
 
 We have millions of users and millions of audio posts from user-generated content and from podcasts, news, comedy and radio channels like the BBC, Xfm, Sky Sports. We even have a team of journalists making our own news content as it happens.
 
