@@ -12,6 +12,10 @@ We have great content, in fact our content is amazing - but it's not being heard
 ## Job overview
 You'll be solving problems on the web and with native apps. We're looking for somebody to prototype and validate ideas quickly, identify problems that need to be solved and work with data, users and stakeholders to continuously iterate on and improve our products.
 
+Our audio content is available to all on the web and accessibility is very important to us.
+
+We're not looking for remote workers. We need somebody on-site who can draw on the wall and participate in and conduct workshops with the team.
+
 ## Who we are looking for
 We're looking for a product designer with visual and user experience design skills.
 
@@ -30,7 +34,7 @@ Your ideal experience would include working with most of the following:
 We're looking for somebody who is not hung up on specific wireframing tools and happy to adapt.
 
 ## Where are we?
-We are based
+Our offices are based in [Maltings Place, Tower Bridge Road](https://www.google.co.uk/maps/place/Maltings+Place,+Tower+Bridge+Rd,+London+SE1+3JB/@51.500511,-0.078954,17z/data=!3m1!4b1!4m2!3m1!1s0x4876034460978ea7:0x5a9857ac6c37daf0) - when you apply we'll give you full details.
 
 ## Interested?
 If you're interested please drop Ben Brignell an email at [ben@audioboom.com](mailto:ben@audioboom.com) with your CV/portfolio and a couple of links to recent things you've worked on. Or [ping him on twitter](http://twitter.com/benbrignell) if you have a quick question.
