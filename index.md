@@ -33,7 +33,7 @@ We're looking for somebody who is not hung up on specific wireframing tools and 
 We are based
 
 ## Interested?
-If you're interested please drop Ben Brignell an email at [ben@audioboom.com](mailto:ben@audioboom.com) or [ping him on twitter](http://twitter.com/benbrignell) if you have a quick question.
+If you're interested please drop Ben Brignell an email at [ben@audioboom.com](mailto:ben@audioboom.com) with your CV/portfolio and a couple of links to recent things you've worked on. Or [ping him on twitter](http://twitter.com/benbrignell) if you have a quick question.
 
 We're ready for you to start immediately if you can and look forward to meeting you!
 
